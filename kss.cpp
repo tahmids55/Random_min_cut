@@ -1,3 +1,7 @@
+// Author 1: Taki Tahmid Saad - 2207022
+//Author 2: Saleh Sadid Mir -2207024
+
+
 #include<bits/stdc++.h>
 #include<time.h>
 using namespace std;
