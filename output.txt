@@ -1,0 +1,4 @@
+Mincut FOund !::: 
+Contracting edge : 0 3
+Contracting edge : 0 2
+2
